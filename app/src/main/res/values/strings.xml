@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">omer_geva_drill_ii</string>
+    <string name="first_btn_name">Get Location</string>
+    <string name="second_btn_name">Get Contacts</string>
+    <string name="location">Location:</string>
+</resources>
